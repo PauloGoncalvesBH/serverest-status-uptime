@@ -15,14 +15,13 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /$REPO
+  baseUrl: /serverest-status-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ServeRest Status
-  introTitle: Monitoramento em tempo real do status e tempo de atividade do [ServeRest.dev](http://serverest.dev/)
   navbar:
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-    - title: ServeRest
+    - title: ServeRest Status [GitHub] 
+      href: https://github.com/PauloGoncalvesBH/serverest-status-uptime
+    - title: ServeRest [GitHub]
       href: https://github.com/PauloGoncalvesBH/ServeRest
 
 # Upptime also supports notifications, assigning issues, and more
