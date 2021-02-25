@@ -4,19 +4,19 @@
     "url": "http://serverest.dev/",
     "icon": "https://favicons.githubusercontent.com/serverest.dev",
     "slug": "serve-rest-dev",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 696,
-    "timeDay": 694,
-    "timeWeek": 741,
-    "timeMonth": 741,
-    "timeYear": 696,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 683,
+    "timeDay": 631,
+    "timeWeek": 700,
+    "timeMonth": 700,
+    "timeYear": 683,
     "dailyMinutesDown": {
-      "2021-02-25": 0
+      "2021-02-25": 11
     }
   },
   {
