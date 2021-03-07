@@ -1,7 +1,7 @@
 url: http://serverest.dev/
-status: up
-code: 200
-responseTime: 812
-lastUpdated: 2021-03-07T06:50:52.314Z
+status: down
+code: 500
+responseTime: 424
+lastUpdated: 2021-03-07T07:24:42.377Z
 startTime: Sat Dec 19 2020 03:28:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
