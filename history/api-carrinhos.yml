@@ -1,7 +1,7 @@
 url: http://serverest.dev/carrinhos
-status: degraded
+status: down
 code: 503
-responseTime: 650
-lastUpdated: 2021-03-08T14:51:24.265Z
+responseTime: 362
+lastUpdated: 2021-03-08T14:59:56.677Z
 startTime: Thu Feb 25 2021 01:45:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
