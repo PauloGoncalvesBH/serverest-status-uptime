@@ -28,9 +28,9 @@ assignees:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
+  cname: status.serverest.dev
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /serverest-status-uptime
+  # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ServeRest Status
   navbar:
