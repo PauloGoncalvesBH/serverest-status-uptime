@@ -1,6 +1,6 @@
 # Change these first
-owner: PauloGoncalvesBH # Your GitHub username
-repo: serverest-status-uptime # Your Github repository name
+owner: ServeRest # Your GitHub username
+repo: status # Your Github repository name
 
 # Add your sites here
 sites:
@@ -35,7 +35,7 @@ status-website:
   name: ServeRest Status
   navbar:
     - title: ServeRest Status [GitHub] 
-      href: https://github.com/PauloGoncalvesBH/serverest-status-uptime
+      href: https://github.com/ServeRest/status
     - title: ServeRest [GitHub]
       href: https://github.com/PauloGoncalvesBH/ServeRest
 
