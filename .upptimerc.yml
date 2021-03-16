@@ -37,7 +37,7 @@ status-website:
     - title: Status
       href: /
     - title: ServeRest
-      href: https://github.com/PauloGoncalvesBH/ServeRest
+      href: https://github.com/$OWNER/ServeRest
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
