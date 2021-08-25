@@ -1,7 +1,7 @@
 url: http://serverest.dev/usuarios
-status: up
+status: degraded
 code: 200
-responseTime: 482
-lastUpdated: 2021-08-25T20:55:46.162Z
+responseTime: 845
+lastUpdated: 2021-08-25T21:17:04.506Z
 startTime: Thu Feb 25 2021 01:45:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
