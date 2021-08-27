@@ -1,7 +1,7 @@
 url: http://serverest.dev/produtos
-status: degraded
+status: up
 code: 200
-responseTime: 956
-lastUpdated: 2021-08-27T19:52:55.756Z
+responseTime: 375
+lastUpdated: 2021-08-27T20:13:09.032Z
 startTime: Thu Feb 25 2021 01:46:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
